@@ -7,3 +7,12 @@ This is a template project of [React][React_Url] + [ES6][ES6_Url] + [Webpack][We
 
 # ES6 => ES5
 Nowadays ES6 can't be accepted by main browser, so we should use [babel][Babel_Url] to convert ES6 to ES5 code.
+
+# Start the Project
+This project use node.js to start:
+```bash
+node server.js
+```
+This command has done two steps:
+ - Prepare final code by webpack
+ - Start local server for visiting
