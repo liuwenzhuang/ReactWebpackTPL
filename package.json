@@ -1,0 +1,46 @@
+{
+  "name": "react-es6-webpack-template",
+  "version": "1.0.0",
+  "description": "This project is the initial project for developing react+es6+webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liuwenzhuang/ReactWebpackTPL.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "es6",
+    "babel",
+    "initial",
+    "project"
+  ],
+  "author": "Liu Wenzhuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuwenzhuang/ReactWebpackTPL/issues"
+  },
+  "homepage": "https://github.com/liuwenzhuang/ReactWebpackTPL#readme",
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-runtime": "^6.11.6",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.12.0",
+    "css-loader": "^0.24.0",
+    "style-loader": "^0.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.12.2"
+  }
+}
